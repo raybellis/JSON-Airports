@@ -35449,8 +35449,9 @@
         "lon": "-87.927795",
         "iso": "HN",
         "status": 1,
-        "name": null,
+        "name": "Ramón Villeda Morales International Airport",
         "continent": "NA",
+        "city": "San Pedo Sula",
         "type": "airport",
         "lat": "15.456245",
         "size": "medium"
@@ -72822,6 +72823,9 @@
         "name": "Palo Alto",
         "iso": "US",
         "continent": "NA",
-        "size": "small"
+        "size": "small",
+	"type": "airport",
+	"lat": "37.461111",
+	"lon": "-122.115"
     }
 ]
